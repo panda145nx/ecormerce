@@ -1,2 +1,2 @@
-# Introducción
+# Explicación del trabajo final 🙂
  Como primera medida creamos una carpeta general, luego creamos dentro de la carpeta la carpeta backend utilizando los siguientes comandos: npm init -y npm install express nodemon npm install mongoose, abrimos la carpeta en visual y empezamos a ejecutar los códigos; para frontend nos fuimos a la consola realizando la configuración de los comandos: Npx create-react-app frontend npm install axios react-router-dom npm i @material-tailwind/react y comenzamos a codificar hasta llegar al resultado final.
